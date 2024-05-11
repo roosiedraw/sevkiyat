@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350886132842",
+    "project_id": "sevkiyat-fec3e",
+    "storage_bucket": "sevkiyat-fec3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350886132842:android:5d9dbfba1485180cdc9e13",
+        "android_client_info": {
+          "package_name": "com.sevkiyat.sevkiyat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350886132842-k6j50lt2lmh0l9a6ajgidrv2051aneah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuP1utIdho2ltdRS32hDLeW81p-wSNG1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350886132842-k6j50lt2lmh0l9a6ajgidrv2051aneah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
